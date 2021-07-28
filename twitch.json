@@ -1,0 +1,7 @@
+{
+	"twitch": {
+		"clientID": "Enter your ClientID",
+		"secret": "Enter your SecretCode",
+		"OAuth_Token": ""
+	}
+}
